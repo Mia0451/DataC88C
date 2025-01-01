@@ -1,0 +1,25 @@
+{
+    "name": "Lab 6",
+    "endpoint": "cal/c88c/fa24/lab06",
+    "src": [
+        "lab06.py"
+    ],
+    "tests": {
+        "lab*.py": "doctest",
+        "tests/*.py": "ok_test"
+    },
+    "default_tests": [
+        "list-mutation",
+        "insert_items",
+        "group_by",
+        "partial_reverse"
+    ],
+    "protocols": [
+        "restore",
+        "file_contents",
+        "analytics",
+        "unlock",
+        "grading",
+        "backup"
+    ]
+}

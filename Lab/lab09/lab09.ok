@@ -1,0 +1,25 @@
+{
+    "name": "Lab 9",
+    "endpoint": "cal/c88c/fa24/lab09",
+    "src": [
+        "lab09.py"
+    ],
+    "tests": {
+        "lab*.py": "doctest",
+        "tests/*.py": "ok_test"
+    },
+    "default_tests": [
+        "trees-wwpd",
+        "max_path_sum",
+        "find_path",
+        "prune_small"
+    ],
+    "protocols": [
+        "restore",
+        "file_contents",
+        "unlock",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}

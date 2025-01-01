@@ -1,0 +1,24 @@
+{
+    "name": "Homework 9",
+    "endpoint": "cal/c88c/fa24/hw09",
+    "src": [
+        "hw09.py"
+    ],
+    "tests": {
+        "hw*.py": "doctest",
+        "tests/*.py": "ok_test"
+    },
+    "default_tests": [
+        "label_squarer",
+        "preorder"
+    ],
+    "protocols": [
+        "restore",
+        "file_contents",
+        "analytics",
+        "help",
+        "unlock",
+        "grading",
+        "backup"
+    ]
+}

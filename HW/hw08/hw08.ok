@@ -1,0 +1,24 @@
+{
+    "name": "Homework 8",
+    "endpoint": "cal/c88c/fa24/hw08",
+    "src": [
+        "hw08.py"
+    ],
+    "tests": {
+        "hw*.py": "doctest",
+        "tests/*.py": "ok_test"
+    },
+    "default_tests": [
+        "store_digits",
+        "deep_map_mut"
+    ],
+    "protocols": [
+        "restore",
+        "file_contents",
+        "help",
+        "grading",
+        "analytics",
+        "unlock",
+        "backup"
+    ]
+}
