@@ -24,7 +24,7 @@ This repository contains the code for homework, lab and projects.
 ## Project
 
 * Cats - Autocorrected Typing Software
-* * Implement type, diff-function, minimum distance and auto-correct
+  * Implement type, diff-function, minimum distance and auto-correct
   * [online portal](https://cats.cs61a.org/)
 * Ants vs Bees Game
-* * Implement QueenAnt, HarvesterAnt, ThrowerAnt (ScaryThrower, SlowThrower, ScubaThrower, ShortThrower and LongThrower), FireAnt, WallAnt, HungryAnt, BodyguardAnt, TankAnt, NinjaAnt, LaserAnt
+  * Implement QueenAnt, HarvesterAnt, ThrowerAnt (ScaryThrower, SlowThrower, ScubaThrower, ShortThrower and LongThrower), FireAnt, WallAnt, HungryAnt, BodyguardAnt, TankAnt, NinjaAnt, LaserAnt
